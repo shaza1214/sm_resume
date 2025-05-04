@@ -1,0 +1,28 @@
+---
+title: "Investment Analysis for Airbnb Properties"
+image: "images/project-03-finance.png"
+categories: [Operations Management, Hospitality Management, Process Optimization, Hosting, Data Analysis]
+index: 3
+---
+
+#### **Overview**  
+This project evaluated the financial viability of property investments. Using Excel for financial modeling and market analysis, I projected a 12% ROI by assessing costs, revenue, and occupancy trends for a sample property portfolio.
+
+::: {.columns}
+::: {.column width="50%"}
+#### **Learning Outcomes**  
+- Conducted cost-benefit analysis for property investments.  
+- Forecasted revenue and occupancy for listings.  
+- Evaluated market trends for investment decisions.  
+- Calculated ROI and payback periods.  
+- Provided data-driven investment recommendations.
+:::
+::: {.column width="50%"}
+#### **Key Skills Gained**  
+- Financial modeling  
+- Investment analysis  
+- Data analysis in Excel  
+- Market research  
+- ROI calculation
+:::
+:::

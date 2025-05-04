@@ -1,0 +1,28 @@
+---
+title: "Property Workflow Optimization"
+image: "images/project-01-operations.jpg"
+categories: [Operations Management, Hospitality Management, Process Optimization, Hosting, Data Analysis]
+index: 1
+---
+
+#### **Overview**  
+This project focused on streamlining property operations to reduce turnaround time between guest stays. By analyzing workflows (e.g., cleaning, check-in, maintenance), I developed an optimized process plan using Excel and process mapping tools, achieving a 20% reduction in downtime.
+
+::: {.columns}
+::: {.column width="50%"}
+#### **Learning Outcomes**  
+- Streamlined operational workflows for efficiency.  
+- Identified bottlenecks in property management processes.  
+- Implemented data-driven process improvements.  
+- Enhanced coordination with cleaning and maintenance teams.  
+- Developed actionable recommendations for scalability.
+:::
+::: {.column width="50%"}
+#### **Key Skills Gained**  
+- Process optimization  
+- Workflow analysis  
+- Data analysis in Excel  
+- Operations management  
+- Hospitality coordination
+:::
+:::

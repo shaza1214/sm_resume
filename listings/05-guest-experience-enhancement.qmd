@@ -1,0 +1,28 @@
+---
+title: "Guest Experience Enhancement"
+image: "images/project-05-guest.jpg"
+categories: [Operations Management, Hospitality Management, Process Optimization, Hosting, Data Analysis]
+index: 5
+---
+
+#### **Overview**  
+This project analyzed guest feedback to enhance listing amenities and satisfaction. Using sentiment analysis in Python and survey data in Excel, I implemented improvements that increased guest ratings by 10%.
+
+::: {.columns}
+::: {.column width="50%"}
+#### **Learning Outcomes**  
+- Analyzed guest feedback to identify improvement areas.  
+- Implemented amenity upgrades based on data insights.  
+- Measured satisfaction through sentiment analysis.  
+- Enhanced guest communication strategies.  
+- Developed recommendations for sustained satisfaction.
+:::
+::: {.column width="50%"}
+#### **Key Skills Gained**  
+- Sentiment analysis  
+- Data analysis in Python/Excel  
+- Guest relations  
+- Hospitality service  
+- Customer satisfaction metrics
+:::
+:::

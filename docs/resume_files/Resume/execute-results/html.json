@@ -1,0 +1,15 @@
+{
+  "hash": "64f6c961d5cf43a1671820d9982fcc44",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\nname: First\nsurname: Last\nposition: \"Your Role or Career Focus\"\nphone: +1 (XXX) XXX-XXXX\nwww: yourwebsite.com\nemail: \"you@example.com\"\ngithub: your-github\nlinkedin: your-linkedin\ndate: \"May 2025\"\noutput: \n  vitae::latexcv:\n    theme: classic\nheader-includes:\n   - \\usepackage{enumitem}\n   - \\setlist[itemize]{nosep, left=0pt}\n   - \\setlist[enumerate]{nosep, left=0pt}\n---\n\n\n\n# Professional Summary\n\nMotivated and detail-oriented marketing and analytics professional with a strong background in data interpretation, campaign strategy, and digital tools. Skilled in turning insights into action and communicating value across business teams.\n\n# Technical Skills\n\n- **Programming Languages:** R, Python, SQL, etc.  \n- **Web Technologies:** HTML, CSS/SCSS, Quarto, CMS, Google Analytics, etc.\n\n# Education\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n# A tibble: 2 × 5\n  what                     when                            with      where why  \n  <chr>                    <chr>                           <chr>     <chr> <lis>\n1 Master of [Your Field]   20XX – Expected Graduation 20XX [Your Sc… [You… <chr>\n2 Bachelor of [Your Field] 20XX – 20XX                     [Your Sc… [You… <chr>\n```\n\n\n:::\n:::\n\n\n# Work Experience\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n# A tibble: 2 × 5\n  what      when                    with                         where why   \n  <chr>     <chr>                   <chr>                        <chr> <list>\n1 Job Title Month YYYY – Month YYYY Company or Organization Name <NA>  <list>\n2 Job Title Month YYYY – Month YYYY Another Company or Team      <NA>  <list>\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

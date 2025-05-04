@@ -1,0 +1,15 @@
+{
+  "hash": "8bf9ecf30fa2c599d6bc5dc65f4bb606",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\nname: Shaza\nsurname: Mumtaz\nposition: \"MBA Graduate | Hospitality Management Professional\"\nemail: \"ssmumtaz@cpp.edu\"\ndate: \"May 2025\"\noutput: \n  vitae::latexcv:\n    theme: classic\nheader-includes:\n   - \\usepackage{enumitem}\n   - \\setlist[itemize]{nosep, left=0pt}\n   - \\setlist[enumerate]{nosep, left=0pt}\n---\n\n\n\n# Professional Summary\n\nResults-oriented MBA graduate with expertise in operations management, marketing, and financial analysis, passionate about advancing in the hospitality industry. Proficient in leveraging data-driven strategies and business analytics to optimize operational efficiency, enhance customer satisfaction, and drive revenue growth. Skilled in analytical tools and strategic planning to support hospitality business objectives.\n\n# Technical Skills\n\n- **Analytical Tools**: Excel, Python, Google Analytics, Canva  \n- **Business Skills**: Operations Management, Marketing Strategy, Financial Modeling, Data Analysis, Process Optimization  \n- **Hospitality Skills**: Customer Service Excellence, Workflow Coordination, Revenue Analysis, Marketing Campaign Development\n\n# Education\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n# A tibble: 1 × 5\n  what                                        when        with       where why  \n  <chr>                                       <chr>       <chr>      <chr> <lis>\n1 Master of Business Administration (General) 2021 – 2023 College o… Cal … <chr>\n```\n\n\n:::\n:::\n\n\n# Work Experience\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n# A tibble: 2 × 5\n  what                      when                    with            where why   \n  <chr>                     <chr>                   <chr>           <chr> <list>\n1 Operations Analyst Intern June 2022 – August 2022 Hospitality So… <NA>  <list>\n2 Marketing Assistant       January 2023 – May 2023 Hospitality Ma… <NA>  <list>\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,28 @@
+---
+title: "Airbnb Listing Promotion Strategy"
+image: "images/project-02-marketing.jpg"
+categories: [Operations Management, Hospitality Management, Process Optimization, Hosting, Data Analysis]
+index: 2
+---
+
+#### **Overview**  
+This project involved designing a digital marketing campaign to boost the visibility of listings. Using social media, SEO, and targeted ads, I increased listing exposure, projecting a 15% rise in bookings, with strategies developed in Canva and Google Analytics.
+
+::: {.columns}
+::: {.column width="50%"}
+#### **Learning Outcomes**  
+- Crafted effective marketing campaigns for listings.  
+- Analyzed audience demographics for targeted promotions.  
+- Optimized listing SEO for higher platform rankings.  
+- Measured campaign performance using analytics tools.  
+- Developed creative marketing assets for engagement.
+:::
+::: {.column width="50%"}
+#### **Key Skills Gained**  
+- Digital marketing  
+- SEO optimization  
+- Social media strategy  
+- Campaign analytics  
+- Visual design in Canva
+:::
+:::

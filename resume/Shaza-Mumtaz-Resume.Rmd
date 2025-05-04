@@ -1,0 +1,87 @@
+---
+name: Shaza
+surname: Mumtaz
+position: "MBA Graduate | Hospitality Management Professional"
+email: "ssmumtaz@cpp.edu"
+date: "`r format(Sys.time(), '%B %Y')`"
+output: 
+  vitae::latexcv:
+    theme: classic
+header-includes:
+   - \usepackage{enumitem}
+   - \setlist[itemize]{nosep, left=0pt}
+   - \setlist[enumerate]{nosep, left=0pt}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+
+if (!requireNamespace(c("tinytex","vitae","tibble"), quietly = TRUE)) {
+  install.packages(c("tinytex","vitae","tibble"))
+}
+
+if (Sys.which("pdflatex") == "" && !tinytex::is_tinytex()) {                    
+  message("► TinyTeX not found – installing")
+  tinytex::install_tinytex()        
+} else {
+  message("✓ LaTeX present – no installation needed.")
+}
+
+library(vitae)
+library(tibble)
+```
+
+# Professional Summary
+
+Results-oriented MBA graduate with expertise in operations management, marketing, and financial analysis, passionate about advancing in the hospitality industry. Proficient in leveraging data-driven strategies and business analytics to optimize operational efficiency, enhance customer satisfaction, and drive revenue growth. Skilled in analytical tools and strategic planning to support hospitality business objectives.
+
+# Technical Skills
+
+- **Analytical Tools**: Excel, Python, Google Analytics, Canva  
+- **Business Skills**: Operations Management, Marketing Strategy, Financial Modeling, Data Analysis, Process Optimization  
+- **Hospitality Skills**: Customer Service Excellence, Workflow Coordination, Revenue Analysis, Marketing Campaign Development
+
+# Education
+
+```{r}
+tribble(
+  ~ Degree, ~ Year, ~ College, ~ Institution,
+  "Master of Business Administration (General)", "2021 – 2023", "College of Business Administration", "Cal Poly Pomona"
+) %>%
+  detailed_entries(Degree, Year, College, Institution)
+```
+
+# Work Experience
+
+```{r}
+tribble(
+  ~ Years, ~ Company, ~ Duties, ~ Title,
+
+  "June 2022 – August 2022", "Hospitality Solutions Inc.",
+  list(
+    "Analyzed operational workflows for hospitality clients, identifying inefficiencies in service delivery processes.",
+    "Developed process maps using Excel, improving operational efficiency by 15%.",
+    "Collaborated with cross-functional teams to implement streamlined procedures.",
+    "Used data analytics to support recommendations, enhancing service quality.",
+    "Presented findings to stakeholders, driving adoption of optimized workflows."
+  ),
+  "Operations Analyst Intern",
+
+  "January 2023 – May 2023", "Hospitality Marketing Group",
+  list(
+    "Designed marketing campaigns for hospitality businesses, increasing brand visibility by 20%.",
+    "Created promotional assets using Canva, tailored to target customer demographics.",
+    "Analyzed campaign performance with Google Analytics, optimizing digital marketing strategies.",
+    "Supported training on customer service best practices for hospitality staff.",
+    "Implemented data-driven marketing tactics, boosting customer engagement."
+  ),
+  "Marketing Assistant"
+
+) %>%
+  detailed_entries(
+    what = Title,
+    when = Years,
+    with = Company,
+    why = Duties
+  )
+```

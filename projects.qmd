@@ -1,0 +1,39 @@
+---
+title: "Projects"
+description: "Projects by Shaza Mumtaz"
+Professional Skills: "Operations Management, Marketing, Finance, Hospitality Management"
+---
+
+As an MBA graduate and aspiring Airbnb host, I combine strategic business expertise with a passion for hospitality to drive property success and exceptional guest experiences. Below are five projects highlighting my skills in operations management, marketing, finance, and Airbnb hosting. Each project includes a detailed case study linked below, showcasing my ability to apply MBA knowledge to real-world hospitality challenges.
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+### 1. Operations Management: Property Workflow Optimization
+![Workflow Optimization](images/project-01-operations.jpg){width=100% .rounded}
+Streamlined property operations, reducing turnaround time between guests by 20%. [View Details](listings/01-property-workflow-optimization.qmd)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### 2. Marketing: Listing Promotion Strategy
+![Listing Promotion](images/project-02-marketing.jpg){width=100% .rounded}
+Developed a digital marketing campaign to boost listing visibility and bookings. [View Details](listings/02-listing-promotion-strategy.qmd)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### 3. Finance: Investment Analysis for Properties
+![Investment Analysis](images/project-03-finance.png){width=100% .rounded}
+Conducted financial analysis to evaluate property investments, projecting a 12% ROI. [View Details](listings/03-investment-analysis.qmd)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### 4. Dynamic Pricing Strategy Making
+![Dynamic Pricing](images/project-04-pricing.jpg){width=100% .rounded}
+Created a data-driven pricing model to maximize revenue and occupancy for listings. [View Details](listings/04-dynamic-pricing-strategy.qmd)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### 5. Guest Experience Enhancement
+![Guest Experience](images/project-05-guest.jpg){width=100% .rounded}
+Analyzed guest feedback to improve amenities and satisfaction, increasing ratings by 10%. [View Details](listings/05-guest-experience-enhancement.qmd)
+:::
+:::

@@ -1,0 +1,74 @@
+---
+title: "Shaza Mumtaz"
+description: "Portfolio of Shaza Mumtaz, Aspiring Airbnb Host with MBA Expertise"
+Profession: "Project Management | Financial Modeling | Leadership"
+---
+
+::: {.columns}
+::: {.column width="30%"}
+![ ](images/headshot.jpg){width=100% style="border-radius: 50%;"}
+:::
+::: {.column width="70%" .padding-left-3rem}
+As an MBA graduate driven by the art and science of hospitality, I'm pursuing opportunities to excel in managing unique stay experiences. My business background equips me to move beyond basic hospitality standards, applying analytical skills to optimize pricing, occupancy, and marketing outreach for peak property performance. Simultaneously, my commitment to a superior guest experience translates into meticulous attention to detail, proactive communication, and the creation of welcoming, comfortable environments designed to delight guests and foster loyalty.
+:::
+:::
+
+## About Me
+**MBA Candidate – Business Analytics & Strategic Management | Cal Poly Pomona (May 2025)**                          
+**Lean Six Sigma Yellow Belt | Google Data Analytics (In Progress)**
+
+I hold a <span class="highlight">Master of Business Administration (MBA), General</span> from Cal Poly Pomona. Analytical MBA candidate with a foundation in business analytics, operations, and strategic management. Proven track record of optimizing performance, automating workflows, and delivering data-driven insights across healthcare, real estate, and research sectors.
+
+### EDUCATION
+
+#### MBA, Cal Poly Pomona  
+*Expected May 2025*  
+Concentration: Business Analytics & Strategic Management
+
+#### BA, Psychology, University of Illinois at Chicago  
+*Graduated May 2022*
+
+### Skills
+- **MBA-Related**: Strategic Planning, Financial Analysis, Marketing Strategy, Data Analytics, Operations Management
+- **Hosting-Related**: Guest Relations, Property Management, Dynamic Pricing, Hospitality Service, Digital Marketing
+
+### EXPERIENCE
+
+#### Manager/Host – Airbnb  
+*Los Angeles, CA | Jan 2024 – Present*
+
+- Managed high-performing rental properties, maintaining a 4.9+ rating and Superhost status.
+- Increased occupancy by 22% and boosted revenue through dynamic pricing and automation.
+- Oversaw vendor scheduling, maintenance, and guest communications.
+
+#### Clinic Manager – Chesterfield Valley Psychiatry  
+*St. Louis, MO | Jan 2016 – Mar 2023*
+
+- Directed operations for a 300+ patient/month clinic and led a team of 10+ staff.
+- Implemented an EHR system that reduced documentation time by 30% and billing errors by 95%.
+- Introduced KPIs and SOPs, improving decision-making and performance.
+
+#### Research Analyst – Orthopedic Analysis  
+*Chicago, IL | May 2021 – May 2022*
+
+- Conducted trace metal testing for surgical planning, reducing result delays by 15%.
+- Delivered lab reports and analytical summaries to healthcare teams for critical decision-making.
+
+### Career Objective
+To become a top-tier Airbnb host, utilizing my MBA expertise to craft unforgettable guest experiences, optimize occupancy rates, and drive property success through strategic and data-driven management.
+
+### Highlighted Achievements
+- Developed a dynamic pricing strategy, projecting a 15% revenue increase.
+- Designed a guest feedback system to enhance satisfaction, improving ratings by 10%.
+- Created a digital marketing campaign to increase visibility and bookings.
+
+## Let's Connect
+
+Saza Mumtaz | Los Angeles, CA | (213) 810-7342 
+
+You can [email me](mailto:ssmumtaz@cpp.edu) to discuss hosting opportunities or collaborations.  
+Connect with me on [LinkedIn](http://www.linkedin.com/in/shaza-m-a04324234) or check out my [GitHub](https://github.com/shaza1214).
+
+---
+
+*Welcome to my portfolio. Explore my [Projects](/projects.qmd) to see my business skills in action or view my [Résumé](/resume.qmd) for more details.*

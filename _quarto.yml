@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Shaza Mumtaz"
+  description: "Portfolio of Shaza Mumtaz, Aspiring Airbnb Host with MBA Expertise"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Résumé"
+        href: resume.qmd
+  favicon: images/favicon.ico  
+
+format:
+  html:
+    theme: [flatly, theme.scss]
+    toc: true

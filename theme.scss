@@ -1,0 +1,96 @@
+/*-------------------------------------------------
+  Shaza Mumtaz Portfolio SCSS
+  Customized for Airbnb Hosting Theme
+--------------------------------------------------*/
+
+/*-- scss:defaults --*/
+
+// ── Brand Palette ────────────────────────────────
+$color-primary:   #ff5a5f;  // Airbnb coral
+$color-secondary: #008489;  // Airbnb teal
+
+// Optional accent & neutral tones
+$accent-1:  #ff2a68;  // Bright pink for links/highlights
+$accent-2:  #00a699;  // Teal variant for success
+$neutral-0: #ffffff;  // White for backgrounds
+$neutral-1: #f8f9fa;  // Light gray for subtle sections
+$neutral-9: #333333;  // Dark gray for text
+
+// ── Typography ──────────────────────────────────
+$font-primary:    'Roboto', sans-serif;
+$font-secondary:  'Roboto', sans-serif;
+$font-body:       $font-primary;
+
+// ── Derived / utility variables ─────────────────
+$color-secondary-dark: darken($color-secondary, 10%);
+
+/*-- scss:rules --*/
+
+/* Global body styles */
+body {
+  font-family: $font-body;
+  color: $neutral-9;
+  background-color: $neutral-1;
+  margin: 0;
+  padding: 0;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-primary;
+  font-weight: bold;
+  margin-top: 0;
+}
+
+h1 { color: $color-primary; }
+h2 { color: $color-secondary-dark; }
+h3 { color: $accent-1; }
+
+/* Paragraphs */
+p {
+  font-size: 1em;
+  line-height: 1.5;
+  color: $neutral-9;
+}
+
+/* Links */
+a {
+  color: $accent-1;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+/* Code blocks */
+pre code {
+  background: $neutral-9;
+  color: $color-secondary;
+  font-size: 1em;
+  padding: 0.9em 1.1em;
+  border-radius: 5px;
+  border: 2px solid $accent-2;
+  overflow-x: auto;
+}
+
+/* Highlight utility */
+.highlight {
+  background-color: $accent-1;
+  color: $neutral-0;
+  padding: 0.2em 0.4em;
+  border-radius: 0.2em;
+}
+
+/* Example animation (optional) */
+@keyframes progressColor {
+  0%   { background-color: $color-primary; }
+  100% { background-color: $color-secondary; }
+}
+
+.padding-left-3rem {
+  padding-left: 3rem;
+}
+
+/* Import Roboto font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');

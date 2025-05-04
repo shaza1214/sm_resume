@@ -1,0 +1,219 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Shaza Mumtaz",
+    "section": "",
+    "text": "As an MBA graduate driven by the art and science of hospitality, I’m pursuing opportunities to excel in managing unique stay experiences. My business background equips me to move beyond basic hospitality standards, applying analytical skills to optimize pricing, occupancy, and marketing outreach for peak property performance. Simultaneously, my commitment to a superior guest experience translates into meticulous attention to detail, proactive communication, and the creation of welcoming, comfortable environments designed to delight guests and foster loyalty."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Shaza Mumtaz",
+    "section": "About Me",
+    "text": "About Me\nMBA Candidate – Business Analytics & Strategic Management | Cal Poly Pomona (May 2025)\nLean Six Sigma Yellow Belt | Google Data Analytics (In Progress)\nI hold a Master of Business Administration (MBA), General from Cal Poly Pomona. Analytical MBA candidate with a foundation in business analytics, operations, and strategic management. Proven track record of optimizing performance, automating workflows, and delivering data-driven insights across healthcare, real estate, and research sectors.\n\nEDUCATION\n\nMBA, Cal Poly Pomona\nExpected May 2025\nConcentration: Business Analytics & Strategic Management\n\n\nBA, Psychology, University of Illinois at Chicago\nGraduated May 2022\n\n\n\nSkills\n\nMBA-Related: Strategic Planning, Financial Analysis, Marketing Strategy, Data Analytics, Operations Management\nHosting-Related: Guest Relations, Property Management, Dynamic Pricing, Hospitality Service, Digital Marketing\n\n\n\nEXPERIENCE\n\nManager/Host – Airbnb\nLos Angeles, CA | Jan 2024 – Present\n\nManaged high-performing rental properties, maintaining a 4.9+ rating and Superhost status.\nIncreased occupancy by 22% and boosted revenue through dynamic pricing and automation.\nOversaw vendor scheduling, maintenance, and guest communications.\n\n\n\nClinic Manager – Chesterfield Valley Psychiatry\nSt. Louis, MO | Jan 2016 – Mar 2023\n\nDirected operations for a 300+ patient/month clinic and led a team of 10+ staff.\nImplemented an EHR system that reduced documentation time by 30% and billing errors by 95%.\nIntroduced KPIs and SOPs, improving decision-making and performance.\n\n\n\nResearch Analyst – Orthopedic Analysis\nChicago, IL | May 2021 – May 2022\n\nConducted trace metal testing for surgical planning, reducing result delays by 15%.\nDelivered lab reports and analytical summaries to healthcare teams for critical decision-making.\n\n\n\n\nCareer Objective\nTo become a top-tier Airbnb host, utilizing my MBA expertise to craft unforgettable guest experiences, optimize occupancy rates, and drive property success through strategic and data-driven management.\n\n\nHighlighted Achievements\n\nDeveloped a dynamic pricing strategy, projecting a 15% revenue increase.\nDesigned a guest feedback system to enhance satisfaction, improving ratings by 10%.\nCreated a digital marketing campaign to increase visibility and bookings."
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Hi, I’m [Your Name Here]",
+    "section": "What I Do",
+    "text": "What I Do\n\n[Skill or Service 1]: [Brief explanation or tools used].\n[Skill or Service 2]: [Brief explanation or area of expertise].\n[Skill or Service 3]: [Brief explanation or audience served].\n[Skill or Service 4]: [Brief explanation or technologies used]."
+  },
+  {
+    "objectID": "index.html#lets-connect",
+    "href": "index.html#lets-connect",
+    "title": "Shaza Mumtaz",
+    "section": "Let’s Connect",
+    "text": "Let’s Connect\nSaza Mumtaz | Los Angeles, CA | (213) 810-7342\nYou can email me to discuss hosting opportunities or collaborations.\nConnect with me on LinkedIn or check out my GitHub.\n\nWelcome to my portfolio. Explore my Projects to see my business skills in action or view my Résumé for more details."
+  },
+  {
+    "objectID": "marketing-analytics.html",
+    "href": "marketing-analytics.html",
+    "title": "Marketing Analytics",
+    "section": "",
+    "text": "Below are selected projects that highlight my experience applying marketing analytics to real-world challenges. These projects reflect my ability to combine statistical tools, campaign data, and strategic thinking to inform decisions and drive results.\nWhether developing dashboards, analyzing campaign performance, or uncovering insights through SEO and web analytics, each project is rooted in turning complex marketing data into clear, actionable strategies."
+  },
+  {
+    "objectID": "marketing-analytics.html#what-youll-find",
+    "href": "marketing-analytics.html#what-youll-find",
+    "title": "Marketing Analytics",
+    "section": "What You’ll Find",
+    "text": "What You’ll Find\n\nCampaign Performance Analysis: Evaluating the effectiveness of digital marketing efforts using data.\nData Visualization: Turning raw datasets into intuitive dashboards and reports.\nMarketing Mix & Attribution: Exploring how different channels contribute to success.\nCustomer & Market Insights: Using analytics to better understand user behavior and optimize experiences."
+  },
+  {
+    "objectID": "resume/YOUR-NAME-Resume.html",
+    "href": "resume/YOUR-NAME-Resume.html",
+    "title": "Professional Summary",
+    "section": "",
+    "text": "Professional Summary\nMotivated and detail-oriented marketing and analytics professional with a strong background in data interpretation, campaign strategy, and digital tools. Skilled in turning insights into action and communicating value across business teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, Quarto, CMS, Google Analytics, etc.\n\n\n\nEducation\n\n\n# A tibble: 2 × 5\n  what                     when                            with      where why  \n  &lt;chr&gt;                    &lt;chr&gt;                           &lt;chr&gt;     &lt;chr&gt; &lt;lis&gt;\n1 Master of [Your Field]   20XX – Expected Graduation 20XX [Your Sc… [You… &lt;chr&gt;\n2 Bachelor of [Your Field] 20XX – 20XX                     [Your Sc… [You… &lt;chr&gt;\n\n\n\n\nWork Experience\n\n\n# A tibble: 2 × 5\n  what      when                    with                         where why   \n  &lt;chr&gt;     &lt;chr&gt;                   &lt;chr&gt;                        &lt;chr&gt; &lt;list&gt;\n1 Job Title Month YYYY – Month YYYY Company or Organization Name &lt;NA&gt;  &lt;list&gt;\n2 Job Title Month YYYY – Month YYYY Another Company or Team      &lt;NA&gt;  &lt;list&gt;"
+  },
+  {
+    "objectID": "listings/05-social-media-engagement.html",
+    "href": "listings/05-social-media-engagement.html",
+    "title": "Social Media Engagement Analysis",
+    "section": "",
+    "text": "Overview\nThis analysis examined engagement metrics across multiple social media platforms to identify content trends, audience preferences, and posting strategies that drive performance.\n\n\n\n\nLearning Outcomes\n\nAggregate and clean social media data.\n\nIdentify high-performing content formats.\n\nUnderstand audience behavior and peak times.\n\nSupport social strategy with data-backed recommendations.\n\nVisualize results in an executive summary.\n\n\n\n\nKey Skills Gained\n\nSocial analytics\n\nPlatform metric APIs\n\nContent performance tracking\n\nAudience insights\n\nStrategic planning"
+  },
+  {
+    "objectID": "listings/03-customer-segmentation-clustering.html",
+    "href": "listings/03-customer-segmentation-clustering.html",
+    "title": "Customer Segmentation Using Clustering",
+    "section": "",
+    "text": "Overview\nIn this analysis, customer data was segmented using clustering algorithms to identify meaningful groups. These segments informed targeting strategies and personalization efforts.\n\n\n\n\nLearning Outcomes\n\nClean and prepare customer-level data.\n\nApply clustering techniques to group similar customers.\n\nInterpret clusters to define marketing personas.\n\nRecommend tailored messaging strategies.\n\nSupport targeted campaign development.\n\n\n\n\nKey Skills Gained\n\nK-means clustering\n\nData preprocessing\n\nCustomer profiling\n\nMarket segmentation strategy\n\nR or Python for machine learning"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Résumé",
+    "section": "",
+    "text": "You can download the resume from the following link: Download Resume\n\n\nResults-oriented MBA graduate with expertise in operations management, marketing, and financial analysis, aspiring to excel as an Airbnb host. Skilled in leveraging data-driven strategies, hospitality management, and guest-centric approaches to optimize property performance and deliver exceptional guest experiences. Proficient in analytical tools and business strategies to drive revenue and satisfaction in the hospitality industry.\n\n\n\n\nAnalytical Tools: Excel, Python, RStudio, Tableau, Canva\n\nHospitality Skills: Guest Relations, Property Management, Dynamic Pricing, Amenity Optimization\n\nBusiness Skills: Operations Management, Marketing Strategy, Financial Modeling, Data Analysis\n\n\n\n\n\n\n\n\n\n\n\n\n\nDegree\nYear\nCollege / Department\nInstitution\n\n\n\n\nMBA, Business Analytics & Strategic Management\n2023 – 2025\nCollege of Business Administration\nCal Poly Pomona\n\n\nBA, Psychology\nMay 2022\nCollege of Liberal Arts\nUniversity of Illinois at Chicago\n\n\n\n\n\n\n\nSocial Impact Responsibility & International Business\n\nAdvanced Operations Management\n\nDigital Marketing\n\nStrategic Management\n\nInformation Systems\n\nMarketing Management Applications\n\nFinancial Decision Making\n\nOperations and Supply Chain Management\n\nOrganizational Behavior\n\nAccounting and Managerial Decisions\n\nStrategic Data Wrangling and Visualization\n\n\n\n\nManager/Host – Airbnb\nLos Angeles, CA | Jan 2024 – Present\n- Managed high-performing rental properties, maintaining a 4.9+ rating and Superhost status.\n- Increased occupancy by 22% and boosted revenue through dynamic pricing and automation.\n- Oversaw vendor scheduling, maintenance, and guest communications.\nClinic Manager – Chesterfield Valley Psychiatry\nSt. Louis, MO | Jan 2016 – Mar 2023\n- Directed operations for a 300+ patient/month clinic and led a team of 10+ staff.\n- Implemented EHR system that reduced documentation time by 30% and billing errors by 95%.\n- Introduced KPIs and SOPs to improve decision-making and performance.\nResearch Analyst – Orthopedic Analysis\nChicago, IL | May 2021 – May 2022\n- Conducted trace metal testing for surgical planning, reducing result delays by 15%.\n- Delivered lab reports and analytical summaries to healthcare teams for informed decision-making.\n\n\n\n\nData Analytics: Excel, SQL, Tableau, Python\n\nProject Management: Process Optimization, Strategic Planning\n\nCertifications: Lean Six Sigma Yellow Belt | Google Data Analytics (In Progress)\n\nLeadership: Team Management, Cross-functional Collaboration"
+  },
+  {
+    "objectID": "listings/02-seo-benchmarking-analysis.html",
+    "href": "listings/02-seo-benchmarking-analysis.html",
+    "title": "SEO Benchmarking Analysis",
+    "section": "",
+    "text": "Overview\nThis project compared SEO performance across competitors, highlighting keyword gaps, backlink profiles, and content effectiveness. Insights were used to guide an improved content and SEO strategy.\n\n\n\n\nLearning Outcomes\n\nIdentify keyword opportunities through competitive research.\n\nTrack and compare domain authority and page rankings.\n\nRecommend on-page SEO improvements.\n\nDesign a data-driven SEO content strategy.\n\nVisualize competitor positioning.\n\n\n\n\nKey Skills Gained\n\nKeyword research\n\nWeb scraping & data cleaning\n\nSEO analysis tools\n\nData storytelling\n\nStrategy development"
+  },
+  {
+    "objectID": "listings/04-funnel-attribution-model.html",
+    "href": "listings/04-funnel-attribution-model.html",
+    "title": "Marketing Funnel Attribution Model",
+    "section": "",
+    "text": "Overview\nThis project developed a marketing attribution model to assign credit to touchpoints throughout the conversion journey. The insights supported channel optimization and budget reallocation.\n\n\n\n\nLearning Outcomes\n\nTrack multi-touch customer journeys.\n\nModel attribution using first-touch, last-touch, and linear approaches.\n\nVisualize funnel performance.\n\nQuantify channel impact on conversion.\n\nGuide future campaign investment decisions.\n\n\n\n\nKey Skills Gained\n\nAttribution modeling\n\nFunnel analysis\n\nData visualization\n\nCampaign performance analysis\n\nR or Python analytics pipelines"
+  },
+  {
+    "objectID": "listings/01-campaign-insights-dashboard.html",
+    "href": "listings/01-campaign-insights-dashboard.html",
+    "title": "Campaign Insights Dashboard",
+    "section": "",
+    "text": "Overview\nThis project involved building a dashboard to track and visualize marketing campaign performance. Metrics like click-through rate, conversion rate, and ROI were tracked across channels using R and Tableau.\n\n\n\n\nLearning Outcomes\n\nVisualize and monitor key marketing metrics.\n\nAnalyze performance trends across multiple campaigns.\n\nIdentify high- and low-performing segments.\n\nCommunicate insights through interactive visuals.\n\nDevelop data-informed recommendations.\n\n\n\n\nKey Skills Gained\n\nDashboard development\n\nCampaign analytics\n\nData wrangling in R\n\nTableau or R Shiny visualization\n\nPerformance measurement"
+  },
+  {
+    "objectID": "strategic-marketing.html",
+    "href": "strategic-marketing.html",
+    "title": "Strategic Marketing",
+    "section": "",
+    "text": "Below are selected projects that showcase my work in strategic marketing, campaign development, and brand management. These examples highlight how I apply leadership, data-informed decision making, and creative direction to drive marketing success."
+  },
+  {
+    "objectID": "strategic-marketing.html#project-title-1-strategic-campaign-planning",
+    "href": "strategic-marketing.html#project-title-1-strategic-campaign-planning",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 1: Strategic Campaign Planning]",
+    "text": "[Project Title 1: Strategic Campaign Planning]\nIn this project, I led the development of a comprehensive marketing campaign for [product, service, or initiative]. From audience segmentation to messaging strategy, I managed the full lifecycle of the campaign, aligning it with business objectives and measurable KPIs.\nSkills Demonstrated:\n\nMarketing Strategy: Defined objectives and tactics for maximum impact.\nTeam Coordination: Oversaw collaboration across creative, data, and channel teams.\nPerformance Tracking: Implemented real-time metrics and post-campaign analysis.\nBrand Positioning: Ensured consistency across all touchpoints."
+  },
+  {
+    "objectID": "strategic-marketing.html#project-title-2-brand-audit-positioning",
+    "href": "strategic-marketing.html#project-title-2-brand-audit-positioning",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 2: Brand Audit & Positioning]",
+    "text": "[Project Title 2: Brand Audit & Positioning]\nThis initiative involved conducting a full brand audit for [organization or brand], evaluating its current market perception, competitive landscape, and customer engagement. I synthesized insights into a refreshed brand strategy and visual identity recommendations.\nSkills Demonstrated:\n\nBrand Analysis: Audited messaging, tone, and visual identity.\nCompetitive Benchmarking: Evaluated brand positioning within the market.\nStrategic Communication: Developed new value propositions and storytelling elements.\nStakeholder Presentation: Delivered recommendations to senior leadership."
+  },
+  {
+    "objectID": "strategic-marketing.html#project-title-3-product-launch-go-to-market-plan",
+    "href": "strategic-marketing.html#project-title-3-product-launch-go-to-market-plan",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 3: Product Launch Go-to-Market Plan]",
+    "text": "[Project Title 3: Product Launch Go-to-Market Plan]\nFor the release of [new product/service], I created a go-to-market (GTM) strategy from scratch. This included customer journey mapping, channel mix planning, and launch timeline coordination.\nSkills Demonstrated:\n\nGo-to-Market Strategy: Developed a clear launch roadmap aligned with buyer needs.\nIntegrated Marketing: Orchestrated email, paid ads, social, and on-site promotions.\nBudget Management: Allocated resources efficiently across tactics.\nLaunch Optimization: Tracked performance and refined tactics in real time.\n\nBelow is an embedded demonstration of the interactive report:"
+  },
+  {
+    "objectID": "strategic-marketing.html#project-title-4-client-consulting-campaign-optimization",
+    "href": "strategic-marketing.html#project-title-4-client-consulting-campaign-optimization",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 4: Client Consulting & Campaign Optimization]",
+    "text": "[Project Title 4: Client Consulting & Campaign Optimization]\nI collaborated with a client to assess and optimize their existing marketing efforts. Through audits, persona development, and campaign refinement, I helped improve ROI and audience engagement.\nSkills Demonstrated:\n\nClient Consulting: Provided clear insights and strategic guidance.\nPersona Development: Built target personas to guide messaging.\nCampaign Optimization: Identified and addressed areas of underperformance.\nData-Driven Adjustments: Leveraged analytics to refine tactics."
+  },
+  {
+    "objectID": "resume/Resume.html",
+    "href": "resume/Resume.html",
+    "title": "Professional Summary",
+    "section": "",
+    "text": "Professional Summary\nMotivated and detail-oriented marketing and analytics professional with a strong background in data interpretation, campaign strategy, and digital tools. Skilled in turning insights into action and communicating value across business teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, Quarto, CMS, Google Analytics, etc.\n\n\n\nEducation\n\n\n# A tibble: 2 × 5\n  what                     when                            with      where why  \n  &lt;chr&gt;                    &lt;chr&gt;                           &lt;chr&gt;     &lt;chr&gt; &lt;lis&gt;\n1 Master of [Your Field]   20XX – Expected Graduation 20XX [Your Sc… [You… &lt;chr&gt;\n2 Bachelor of [Your Field] 20XX – 20XX                     [Your Sc… [You… &lt;chr&gt;\n\n\n\n\nWork Experience\n\n\n# A tibble: 2 × 5\n  what      when                    with                         where why   \n  &lt;chr&gt;     &lt;chr&gt;                   &lt;chr&gt;                        &lt;chr&gt; &lt;list&gt;\n1 Job Title Month YYYY – Month YYYY Company or Organization Name &lt;NA&gt;  &lt;list&gt;\n2 Job Title Month YYYY – Month YYYY Another Company or Team      &lt;NA&gt;  &lt;list&gt;"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "As an MBA graduate and aspiring Airbnb host, I combine strategic business expertise with a passion for hospitality to drive property success and exceptional guest experiences. Below are five projects highlighting my skills in operations management, marketing, finance, and Airbnb hosting. Each project includes a detailed case study linked below, showcasing my ability to apply MBA knowledge to real-world hospitality challenges.\n\n\n1. Operations Management: Property Workflow Optimization\n Streamlined property operations, reducing turnaround time between guests by 20%. View Details\n\n\n2. Marketing: Listing Promotion Strategy\n Developed a digital marketing campaign to boost listing visibility and bookings. View Details\n\n\n3. Finance: Investment Analysis for Properties\n Conducted financial analysis to evaluate property investments, projecting a 12% ROI. View Details\n\n\n4. Dynamic Pricing Strategy Making\n Created a data-driven pricing model to maximize revenue and occupancy for listings. View Details\n\n\n5. Guest Experience Enhancement\n Analyzed guest feedback to improve amenities and satisfaction, increasing ratings by 10%. View Details"
+  },
+  {
+    "objectID": "listings/03-investment-analysis.html",
+    "href": "listings/03-investment-analysis.html",
+    "title": "Investment Analysis for Airbnb Properties",
+    "section": "",
+    "text": "Overview\nThis project evaluated the financial viability of property investments. Using Excel for financial modeling and market analysis, I projected a 12% ROI by assessing costs, revenue, and occupancy trends for a sample property portfolio.\n\n\n\n\nLearning Outcomes\n\nConducted cost-benefit analysis for property investments.\n\nForecasted revenue and occupancy for listings.\n\nEvaluated market trends for investment decisions.\n\nCalculated ROI and payback periods.\n\nProvided data-driven investment recommendations.\n\n\n\n\nKey Skills Gained\n\nFinancial modeling\n\nInvestment analysis\n\nData analysis in Excel\n\nMarket research\n\nROI calculation"
+  },
+  {
+    "objectID": "listings/04-dynamic-pricing-strategy.html",
+    "href": "listings/04-dynamic-pricing-strategy.html",
+    "title": "Dynamic Pricing Strategy",
+    "section": "",
+    "text": "Overview\nThis project developed a dynamic pricing model for listings to maximize revenue and occupancy. Using Python and Excel to analyze market trends and competitor pricing, I created a strategy projecting a 15% revenue increase.\n\n\n\n\nLearning Outcomes\n\nDesigned a data-driven pricing algorithm.\n\nAnalyzed competitor pricing and market demand.\n\nOptimized pricing for peak and off-peak seasons.\n\nEvaluated pricing impact on occupancy rates.\n\nDeveloped strategies for revenue maximization.\n\n\n\n\nKey Skills Gained\n\nDynamic pricing\n\nData analysis in RStudio/Excel\n\nRevenue optimization\n\nMarket trend analysis\n\nHospitality pricing strategies"
+  },
+  {
+    "objectID": "listings/02-listing-promotion-strategy.html",
+    "href": "listings/02-listing-promotion-strategy.html",
+    "title": "Airbnb Listing Promotion Strategy",
+    "section": "",
+    "text": "Overview\nThis project involved designing a digital marketing campaign to boost the visibility of listings. Using social media, SEO, and targeted ads, I increased listing exposure, projecting a 15% rise in bookings, with strategies developed in Canva and Google Analytics.\n\n\n\n\nLearning Outcomes\n\nCrafted effective marketing campaigns for listings.\n\nAnalyzed audience demographics for targeted promotions.\n\nOptimized listing SEO for higher platform rankings.\n\nMeasured campaign performance using analytics tools.\n\nDeveloped creative marketing assets for engagement.\n\n\n\n\nKey Skills Gained\n\nDigital marketing\n\nSEO optimization\n\nSocial media strategy\n\nCampaign analytics\n\nVisual design in Canva"
+  },
+  {
+    "objectID": "listings/01-property-workflow-optimization.html",
+    "href": "listings/01-property-workflow-optimization.html",
+    "title": "Property Workflow Optimization",
+    "section": "",
+    "text": "Overview\nThis project focused on streamlining property operations to reduce turnaround time between guest stays. By analyzing workflows (e.g., cleaning, check-in, maintenance), I developed an optimized process plan using Excel and process mapping tools, achieving a 20% reduction in downtime.\n\n\n\n\nLearning Outcomes\n\nStreamlined operational workflows for efficiency.\n\nIdentified bottlenecks in property management processes.\n\nImplemented data-driven process improvements.\n\nEnhanced coordination with cleaning and maintenance teams.\n\nDeveloped actionable recommendations for scalability.\n\n\n\n\nKey Skills Gained\n\nProcess optimization\n\nWorkflow analysis\n\nData analysis in Excel\n\nOperations management\n\nHospitality coordination"
+  },
+  {
+    "objectID": "listings/05-guest-experience-enhancement.html",
+    "href": "listings/05-guest-experience-enhancement.html",
+    "title": "Guest Experience Enhancement",
+    "section": "",
+    "text": "Overview\nThis project analyzed guest feedback to enhance listing amenities and satisfaction. Using sentiment analysis in Python and survey data in Excel, I implemented improvements that increased guest ratings by 10%.\n\n\n\n\nLearning Outcomes\n\nAnalyzed guest feedback to identify improvement areas.\n\nImplemented amenity upgrades based on data insights.\n\nMeasured satisfaction through sentiment analysis.\n\nEnhanced guest communication strategies.\n\nDeveloped recommendations for sustained satisfaction.\n\n\n\n\nKey Skills Gained\n\nSentiment analysis\n\nData analysis in Python/Excel\n\nGuest relations\n\nHospitality service\n\nCustomer satisfaction metrics"
+  },
+  {
+    "objectID": "resume.html#professional-summary",
+    "href": "resume.html#professional-summary",
+    "title": "Résumé",
+    "section": "",
+    "text": "Results-oriented MBA graduate with expertise in operations management, marketing, and financial analysis, aspiring to excel as an Airbnb host. Skilled in leveraging data-driven strategies, hospitality management, and guest-centric approaches to optimize property performance and deliver exceptional guest experiences. Proficient in analytical tools and business strategies to drive revenue and satisfaction in the hospitality industry."
+  },
+  {
+    "objectID": "resume.html#technical-skills",
+    "href": "resume.html#technical-skills",
+    "title": "Résumé",
+    "section": "",
+    "text": "Analytical Tools: Excel, Python, RStudio, Tableau, Canva\n\nHospitality Skills: Guest Relations, Property Management, Dynamic Pricing, Amenity Optimization\n\nBusiness Skills: Operations Management, Marketing Strategy, Financial Modeling, Data Analysis"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Résumé",
+    "section": "",
+    "text": "Degree\nYear\nCollege / Department\nInstitution\n\n\n\n\nMBA, Business Analytics & Strategic Management\n2023 – 2025\nCollege of Business Administration\nCal Poly Pomona\n\n\nBA, Psychology\nMay 2022\nCollege of Liberal Arts\nUniversity of Illinois at Chicago"
+  },
+  {
+    "objectID": "resume.html#relevant-coursework",
+    "href": "resume.html#relevant-coursework",
+    "title": "Résumé",
+    "section": "",
+    "text": "Social Impact Responsibility & International Business\n\nAdvanced Operations Management\n\nDigital Marketing\n\nStrategic Management\n\nInformation Systems\n\nMarketing Management Applications\n\nFinancial Decision Making\n\nOperations and Supply Chain Management\n\nOrganizational Behavior\n\nAccounting and Managerial Decisions\n\nStrategic Data Wrangling and Visualization"
+  },
+  {
+    "objectID": "resume.html#work-experience",
+    "href": "resume.html#work-experience",
+    "title": "Résumé",
+    "section": "",
+    "text": "Manager/Host – Airbnb\nLos Angeles, CA | Jan 2024 – Present\n- Managed high-performing rental properties, maintaining a 4.9+ rating and Superhost status.\n- Increased occupancy by 22% and boosted revenue through dynamic pricing and automation.\n- Oversaw vendor scheduling, maintenance, and guest communications.\nClinic Manager – Chesterfield Valley Psychiatry\nSt. Louis, MO | Jan 2016 – Mar 2023\n- Directed operations for a 300+ patient/month clinic and led a team of 10+ staff.\n- Implemented EHR system that reduced documentation time by 30% and billing errors by 95%.\n- Introduced KPIs and SOPs to improve decision-making and performance.\nResearch Analyst – Orthopedic Analysis\nChicago, IL | May 2021 – May 2022\n- Conducted trace metal testing for surgical planning, reducing result delays by 15%.\n- Delivered lab reports and analytical summaries to healthcare teams for informed decision-making."
+  },
+  {
+    "objectID": "resume.html#skills-certifications",
+    "href": "resume.html#skills-certifications",
+    "title": "Résumé",
+    "section": "",
+    "text": "Data Analytics: Excel, SQL, Tableau, Python\n\nProject Management: Process Optimization, Strategic Planning\n\nCertifications: Lean Six Sigma Yellow Belt | Google Data Analytics (In Progress)\n\nLeadership: Team Management, Cross-functional Collaboration"
+  }
+]

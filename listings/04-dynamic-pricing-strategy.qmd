@@ -1,0 +1,28 @@
+---
+title: "Dynamic Pricing Strategy"
+image: "images/project-04-pricing.jpg"
+categories: [Operations Management, Hospitality Management, Process Optimization, Hosting, Data Analysis]
+index: 4
+---
+
+#### **Overview**  
+This project developed a dynamic pricing model for listings to maximize revenue and occupancy. Using Python and Excel to analyze market trends and competitor pricing, I created a strategy projecting a 15% revenue increase.
+
+::: {.columns}
+::: {.column width="50%"}
+#### **Learning Outcomes**  
+- Designed a data-driven pricing algorithm.  
+- Analyzed competitor pricing and market demand.  
+- Optimized pricing for peak and off-peak seasons.  
+- Evaluated pricing impact on occupancy rates.  
+- Developed strategies for revenue maximization.
+:::
+::: {.column width="50%"}
+#### **Key Skills Gained**  
+- Dynamic pricing  
+- Data analysis in RStudio/Excel  
+- Revenue optimization  
+- Market trend analysis  
+- Hospitality pricing strategies
+:::
+:::
