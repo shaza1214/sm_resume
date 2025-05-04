@@ -6,7 +6,7 @@ Profession: "Project Management | Financial Modeling | Leadership"
 
 ::: {.columns}
 ::: {.column width="30%"}
-![ ](images/headshot.jpg){width=100% style="border-radius: 50%;"}
+![ ](images/profile.jpg){width=100% style="border-radius: 50%;"}
 :::
 ::: {.column width="70%" .padding-left-3rem}
 As an MBA graduate driven by the art and science of hospitality, I'm pursuing opportunities to excel in managing unique stay experiences. My business background equips me to move beyond basic hospitality standards, applying analytical skills to optimize pricing, occupancy, and marketing outreach for peak property performance. Simultaneously, my commitment to a superior guest experience translates into meticulous attention to detail, proactive communication, and the creation of welcoming, comfortable environments designed to delight guests and foster loyalty.
